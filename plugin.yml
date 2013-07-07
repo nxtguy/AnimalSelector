@@ -1,0 +1,7 @@
+ name: AnimalSelector
+ version: 0.1
+ description: Let players easily select animals for other plugins to use.
+ author: NXTGUY
+ 
+ main: com.volcanicplaza.BukkitDev.AnimalSelector.AnimalSelector
+ database: false
